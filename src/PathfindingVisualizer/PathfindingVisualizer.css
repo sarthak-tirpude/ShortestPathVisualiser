@@ -1,0 +1,25 @@
+#below{
+  display: inline-flexbox;
+}
+button{
+  margin-top: 10px;
+  padding: 13px;
+  font-size: 15px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#heading{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 60px;
+  margin-top: 20px;
+  font-style:inherit;
+  font-weight: 900;
+  margin-bottom: 10px;
+}
+p{
+  /* align-items:right; */
+  text-align: right;
+  margin-right: 90px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+}
